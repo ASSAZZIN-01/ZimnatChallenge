@@ -38,7 +38,7 @@ To make sure that everything is working smoothly, here is what to expect from ab
 |----------------|--------------------------------------------------|------------------------------------------|
 |Azer KSOURI |[@ZRESU  ](https://zindi.africa/users/ZRESU)      |[@Az-Ks](https://github.com/Az-Ks)        |
 |Ronny Polle     |[@Mdrcod](https://zindi.africa/users/drcod)  |[@DrCod](https://github.com/DrCod)|
-|Darius MORURI |[@Klai](https://zindi.africa/users/Klai)        |[@Klaimohelmi](https://github.com/Klaimohelmi)  |
+|Helmi KLAI |[@Klai](https://zindi.africa/users/Klai)        |[@Klaimohelmi](https://github.com/Klaimohelmi)  |
 
 
 </div>
