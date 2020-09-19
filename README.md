@@ -20,7 +20,7 @@ The objective of this challenge is to develop a machine learning model that for 
 ```
 
 ### Expectations
-
+```
 To make sure that everything is working smoothly, here is what to expect from above (steps):
 
 
@@ -28,7 +28,7 @@ To make sure that everything is working smoothly, here is what to expect from ab
   - in notebooks :: RONNY_NEW_Stacker_CNN , RONNY_NEW_Stacker_FFN , RONNY_Stacker_XGBOOST , RONNY_Stacker_LGBM , Please don't miss to restart runtime After Running 
   this commande << !pip install --upgrade pandas==0.25.3 >> , if you miss to install it , there is an error that will apear later , 
   So Please don't miss to Restart your runtime 
-  
+```  
   
 ## Authors
 
