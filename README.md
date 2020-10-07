@@ -36,7 +36,7 @@ To make sure that everything is working smoothly, here is what to expect from ab
 
 | Name           |                     Zindi ID                     |                  Github ID               |
 |----------------|--------------------------------------------------|------------------------------------------|
-|Azer KSOURI |[@ZRESU  ](https://zindi.africa/users/ZRESU)      |[@Az-Ks](https://github.com/Az-Ks)        |
+|Azer KSOURI |[@ZRUETASILITU  ](https://zindi.africa/users/ZRUETASILITU)      |[@Az-Ks](https://github.com/Az-Ks)        |
 |Ronny Polle     |[@drcod](https://zindi.africa/users/drcod)  |[@DrCod](https://github.com/DrCod)|
 |Helmi KLAI |[@Klai](https://zindi.africa/users/Klai)        |[@Klaimohelmi](https://github.com/Klaimohelmi)  |
 
