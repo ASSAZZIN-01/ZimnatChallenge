@@ -29,7 +29,10 @@ To make sure that everything is working smoothly, here is what to expect from ab
   this commande << !pip install --upgrade pandas==0.25.3 >> , if you miss to install it , there is an error that will apear later , 
   So Please don't miss to Restart your runtime 
 ```  
-  
+## [On the Leaderboard](https://zindi.africa/competitions/zimnat-insurance-recommendation-challenge/leaderboard)
+
+Look for the team named : **ARK** <br>
+Rank : 5/614   
 ## Authors
 
 <div align='center'>
