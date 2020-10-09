@@ -31,7 +31,7 @@ To make sure that everything is working smoothly, here is what to expect from ab
 ```  
 ## [On the Leaderboard](https://zindi.africa/competitions/zimnat-insurance-recommendation-challenge/leaderboard)
 
-Look for the team named : **ARK** <br>
+Look for the team name : **ARK** <br>
 Rank : 5/614   
 ## Authors
 
